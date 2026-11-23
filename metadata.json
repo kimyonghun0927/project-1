@@ -1,0 +1,6 @@
+{
+  "name": "공부로그",
+  "description": "모바일과 데스크탑에서 스톱워치와 뽀모도로 타이머로 공부 시간을 기록하고 과목별 통계를 분석하는 스터디 트래커",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
